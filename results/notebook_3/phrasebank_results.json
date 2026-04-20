@@ -1,0 +1,56 @@
+{
+  "DistilBERT__original": {
+    "test_accuracy": 0.7969072164948454,
+    "test_f1_macro": 0.7609861153339414,
+    "mean_seq_len": 30.602350917431192,
+    "p95_seq_len": 57.0
+  },
+  "DistilBERT__mask_nums": {
+    "test_accuracy": 0.7927835051546391,
+    "test_f1_macro": 0.7521260031141453,
+    "mean_seq_len": 29.59461009174312,
+    "p95_seq_len": 55.0
+  },
+  "DistilBERT__digit_split": {
+    "test_accuracy": 0.7938144329896907,
+    "test_f1_macro": 0.7538282644040293,
+    "mean_seq_len": 32.570814220183486,
+    "p95_seq_len": 62.0
+  },
+  "RoBERTa__original": {
+    "test_accuracy": 0.8216494845360824,
+    "test_f1_macro": 0.8097199306783364,
+    "mean_seq_len": 30.571100917431192,
+    "p95_seq_len": 57.0
+  },
+  "RoBERTa__mask_nums": {
+    "test_accuracy": 0.8257731958762886,
+    "test_f1_macro": 0.8104516836230938,
+    "mean_seq_len": 30.74283256880734,
+    "p95_seq_len": 57.0
+  },
+  "RoBERTa__digit_split": {
+    "test_accuracy": 0.8164948453608247,
+    "test_f1_macro": 0.7968032477862804,
+    "mean_seq_len": 32.59375,
+    "p95_seq_len": 62.0
+  },
+  "XLM-R__original": {
+    "test_accuracy": 0.7134020618556701,
+    "test_f1_macro": 0.4781849190697503,
+    "mean_seq_len": 33.95355504587156,
+    "p95_seq_len": 61.0
+  },
+  "XLM-R__mask_nums": {
+    "test_accuracy": 0.7195876288659794,
+    "test_f1_macro": 0.5694202703722572,
+    "mean_seq_len": 33.538704128440365,
+    "p95_seq_len": 61.0
+  },
+  "XLM-R__digit_split": {
+    "test_accuracy": 0.7154639175257732,
+    "test_f1_macro": 0.5430400529156775,
+    "mean_seq_len": 36.8706995412844,
+    "p95_seq_len": 70.0
+  }
+}

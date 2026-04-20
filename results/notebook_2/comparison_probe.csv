@@ -1,0 +1,7 @@
+tokenizer,comparison_acc
+BERT,0.957
+RoBERTa,0.924
+GPT-2,0.952
+Pythia,0.909
+T5,0.947
+Qwen2.5,0.913

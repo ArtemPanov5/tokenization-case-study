@@ -1,0 +1,91 @@
+text,tokenizer,tokens,chars
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",BERT,25,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",GPT-2,25,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",RoBERTa,25,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",BLOOM,19,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",T5,21,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",XLM-R,20,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",Pythia,24,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",OPT,25,60
+"Q4 revenue increased 12.5% year-over-year to $1,234,567…",Qwen2.5,29,60
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",BERT,26,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",GPT-2,25,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",RoBERTa,25,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",BLOOM,22,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",T5,22,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",XLM-R,22,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",Pythia,26,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",OPT,25,77
+"The stock closed at $142.38 on 2024-03-15, up 3.2% from…",Qwen2.5,35,77
+Earnings per share of €1.45 beat consensus estimates of…,BERT,22,70
+Earnings per share of €1.45 beat consensus estimates of…,GPT-2,22,70
+Earnings per share of €1.45 beat consensus estimates of…,RoBERTa,22,70
+Earnings per share of €1.45 beat consensus estimates of…,BLOOM,22,70
+Earnings per share of €1.45 beat consensus estimates of…,T5,20,70
+Earnings per share of €1.45 beat consensus estimates of…,XLM-R,22,70
+Earnings per share of €1.45 beat consensus estimates of…,Pythia,22,70
+Earnings per share of €1.45 beat consensus estimates of…,OPT,22,70
+Earnings per share of €1.45 beat consensus estimates of…,Qwen2.5,25,70
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,BERT,23,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,GPT-2,22,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,RoBERTa,22,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,BLOOM,19,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,T5,25,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,XLM-R,22,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,Pythia,22,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,OPT,22,67
+The experiment yielded a reaction rate of 1.2e-5 mol/s …,Qwen2.5,26,67
+"Clinical trial enrolled 1,247 patients with a median ag…",BERT,17,71
+"Clinical trial enrolled 1,247 patients with a median ag…",GPT-2,18,71
+"Clinical trial enrolled 1,247 patients with a median ag…",RoBERTa,18,71
+"Clinical trial enrolled 1,247 patients with a median ag…",BLOOM,17,71
+"Clinical trial enrolled 1,247 patients with a median ag…",T5,18,71
+"Clinical trial enrolled 1,247 patients with a median ag…",XLM-R,19,71
+"Clinical trial enrolled 1,247 patients with a median ag…",Pythia,17,71
+"Clinical trial enrolled 1,247 patients with a median ag…",OPT,18,71
+"Clinical trial enrolled 1,247 patients with a median ag…",Qwen2.5,22,71
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,BERT,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,GPT-2,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,RoBERTa,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,BLOOM,18,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,T5,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,XLM-R,20,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,Pythia,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,OPT,22,66
+The meeting is scheduled for 2026-03-01 at 10:45 AM in …,Qwen2.5,32,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,BERT,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,GPT-2,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,RoBERTa,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,BLOOM,15,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,T5,13,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,XLM-R,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,Pythia,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,OPT,17,66
+Approximately 3/4 of respondents (74.8%) agreed with th…,Qwen2.5,19,66
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",BERT,27,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",GPT-2,27,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",RoBERTa,27,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",BLOOM,25,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",T5,24,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",XLM-R,25,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",Pythia,28,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",OPT,27,81
+"Mortgage rates rose from 6.25% to 7.125% over Q3 2024, …",Qwen2.5,37,81
+"The algorithm converged in 12,345 iterations with final…",BERT,18,69
+"The algorithm converged in 12,345 iterations with final…",GPT-2,17,69
+"The algorithm converged in 12,345 iterations with final…",RoBERTa,17,69
+"The algorithm converged in 12,345 iterations with final…",BLOOM,17,69
+"The algorithm converged in 12,345 iterations with final…",T5,19,69
+"The algorithm converged in 12,345 iterations with final…",XLM-R,19,69
+"The algorithm converged in 12,345 iterations with final…",Pythia,17,69
+"The algorithm converged in 12,345 iterations with final…",OPT,17,69
+"The algorithm converged in 12,345 iterations with final…",Qwen2.5,24,69
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",BERT,23,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",GPT-2,23,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",RoBERTa,23,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",BLOOM,20,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",T5,23,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",XLM-R,20,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",Pythia,24,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",OPT,23,71
+"Global emissions reached 36.8 GtCO2 in 2023, a 1.1% inc…",Qwen2.5,33,71

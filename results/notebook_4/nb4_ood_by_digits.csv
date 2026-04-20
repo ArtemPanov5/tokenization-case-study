@@ -1,0 +1,4 @@
+condition,acc_same_digits,acc_diff_digits,n_same,n_diff
+DistilBERT · plain,0.758,,2000,0
+DistilBERT · digit_split,0.8985,,2000,0
+Pythia · native digit,0.6015,,2000,0

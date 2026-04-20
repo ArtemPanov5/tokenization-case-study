@@ -1,0 +1,17 @@
+{
+  "DistilBERT \u00b7 plain": {
+    "in_dist_acc": 0.9869804707060591,
+    "ood_acc": 0.758,
+    "mean_seq_len": 5.109943714821764
+  },
+  "DistilBERT \u00b7 digit_split": {
+    "in_dist_acc": 0.9924887330996495,
+    "ood_acc": 0.8985,
+    "mean_seq_len": 8.780237648530331
+  },
+  "Pythia \u00b7 native digit": {
+    "in_dist_acc": 0.7511266900350526,
+    "ood_acc": 0.6015,
+    "mean_seq_len": 2.4933083176985615
+  }
+}
